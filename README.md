@@ -1,4 +1,4 @@
-This is a github repository for the $\langle \Psi \vert \text{QIS} \rangle$ **Y**oung **Q**uantum **I**nformation **S**cientists conference. 
+This is a github repository for $\langle \Psi \vert \text{QIS} \rangle$, the International Conference for Young Quantum Information Scientist. 
 
 ## Website link
 [https://yqisconference.github.io/github.io/](https://yqisconference.github.io/github.io/)
